@@ -37,4 +37,12 @@ All File ==> https://drive.google.com/drive/folders/1jh3RoOKNq4LwYXGfjLM0qpLoBhU
 6. UI และการเปลี่ยนฉากของเกม
 - มี Scene ของเกมที่หลากหลาย เช่น หน้าเมนู หน้าเครดิต หน้า gameplay หน้าเนื้อเรื่อง ฉากจบต่าง ๆ
 
-![VideoCapture_20250404-191147](https://github.com/user-attachments/assets/6a75f997-40ad-4902-9865-4f5a8241c06f)
+![VideoCapture_20250404-191147](https://github.com/user-attachments/assets/b557b073-47f6-4fd5-b1c3-445583055c9c)
+![VideoCapture_20250404-191150](https://github.com/user-attachments/assets/976d0a1a-38a9-4ce4-83dd-38f7aef907da)
+![VideoCapture_20250404-191158](https://github.com/user-attachments/assets/f312b741-7e02-4344-a079-9a6ffe9f84c4)
+![VideoCapture_20250404-191216](https://github.com/user-attachments/assets/598cea5d-2098-4745-9008-73378ca6a9de)
+![VideoCapture_20250404-191231](https://github.com/user-attachments/assets/c23dac9c-c74e-414b-b232-2c14fbd64981)
+![VideoCapture_20250404-191242](https://github.com/user-attachments/assets/447b6b34-6509-4eec-9112-bf361e80997c)
+![VideoCapture_20250404-191225](https://github.com/user-attachments/assets/871a833d-8413-42dd-a773-3068c530b927)
+![VideoCapture_20250404-191233](https://github.com/user-attachments/assets/23180061-1633-4809-ab9f-9fe12b505a6e)
+![VideoCapture_20250404-191237](https://github.com/user-attachments/assets/97a4941e-d82d-418f-835e-28adf26ca473)
