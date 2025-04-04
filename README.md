@@ -36,3 +36,5 @@ All File ==> https://drive.google.com/drive/folders/1jh3RoOKNq4LwYXGfjLM0qpLoBhU
 
 6. UI และการเปลี่ยนฉากของเกม
 - มี Scene ของเกมที่หลากหลาย เช่น หน้าเมนู หน้าเครดิต หน้า gameplay หน้าเนื้อเรื่อง ฉากจบต่าง ๆ
+
+![VideoCapture_20250404-191147](https://github.com/user-attachments/assets/6a75f997-40ad-4902-9865-4f5a8241c06f)
