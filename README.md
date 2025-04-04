@@ -9,6 +9,7 @@ Video Review ==> https://drive.google.com/file/d/1pJaWdhC6XyxqQo_4WRrbKrGdV9HbFl
 All File ==> https://drive.google.com/drive/folders/1jh3RoOKNq4LwYXGfjLM0qpLoBhUWd42W
 
 **แนวคิด และระบบของเกม**
+
 ชื่อเกม
 **Danbi** เกมแนวเสิร์ฟอาหาร
 
@@ -16,6 +17,7 @@ All File ==> https://drive.google.com/drive/folders/1jh3RoOKNq4LwYXGfjLM0qpLoBhU
 ผู้เล่นจะสวมบทบาทเป็นเด็กเสิร์ฟที่ต้องทำงานในร้านอาหาร หยิบอาหารจากเคาน์เตอร์ และนำไปเสิร์ฟให้ถูกต้อง และทันเวลา พร้อมบอกเล่าเรื่องราวแบบ Visual Novel
 
 ระบบเกมหลัก
+
 1.การควบคุมตัวละคร
 - ผู้เล่นควบคุมตัวละครเดินซ้าย-ขวา และบนล่างโดยใช้ปุ่ม A D W S
 
